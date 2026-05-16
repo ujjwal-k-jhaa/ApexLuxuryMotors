@@ -1,0 +1,8 @@
+{
+  "name": "Apex Luxury Motors",
+  "description": "A premium luxury car dealership website with a dark mode cosmic theme and high-end animations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
